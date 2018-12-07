@@ -367,11 +367,11 @@ class Animations
     missile                   : 1,
 
     land_mine                 : 3,
-    gun                       : 10,
+    gun                       : 3,
     ship                      : 3,
     star                      : 3,
     shovel                    : 3,
-    life                      : 10,
+    life                      : 3,
     hat                       : 3,
     clock                     : 3,
 
