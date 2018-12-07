@@ -49,12 +49,12 @@ class Game
       hi_score         : 20000,
       p1_score         : 0,
       p2_score         : 0,
-      p1_level         : 1,
-      p2_level         : 1,
+      p1_level         : 3,
+      p2_level         : 3,
       p1_ship          : false,
       p2_ship          : false,
-      p1_lives         : 2,
-      p2_lives         : 2,
+      p1_lives         : 10,
+      p2_lives         : 10,
       p1_killed_enemies: [],
       p2_killed_enemies: []
     }
